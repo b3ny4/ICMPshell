@@ -1,0 +1,9 @@
+[Unit]
+Description=The latest development state of GTA 6
+After=network-up.target
+
+[Service]
+ExecStart=/usr/local/bin/gta6
+
+[Install]
+WantedBy=multi-user.target

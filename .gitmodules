@@ -1,0 +1,3 @@
+[submodule "server/Trudy"]
+	path = server/Trudy
+	url = git@github.com:b3ny4/Trudy.git

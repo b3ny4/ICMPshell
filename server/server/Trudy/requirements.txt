@@ -1,0 +1,6 @@
+wheel
+scapy
+termcolor
+scapy_http
+netfilterqueue
+pwntools
